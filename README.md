@@ -2,5 +2,5 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-https://chakesezechi.github.io/four-card-feature-section-master/
+https://chakesezechi.github.io/four-card-feature-section/
 
